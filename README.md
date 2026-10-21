@@ -1,6 +1,6 @@
 # Mind It! — webpage version
 
-This repository hosts the browser version of **Mind It! v1.69** with GitHub Pages, so it opens properly on an iPhone or iPad. Currently build **143**.
+This repository hosts the browser version of **Mind It! v1.69** with GitHub Pages, so it opens properly on an iPhone or iPad. Currently build **144**.
 
 **Open it:** https://coolrishi20.github.io/MindIt-Web/
 
@@ -18,4 +18,4 @@ Good to know:
 - **A Safety Backup after every game** (since build 142): as soon as a finished game is saved to Historic Games, **Backups & Restore → 🛟 Safety backups** keeps a copy by itself ("After the game — … won"), with the last 10 on this device.
 - **Works with no internet** (since build 129): once it has been opened with internet, the phone keeps a copy and opens it offline, with its players and history. With internet it always loads the newest build first. Open it once with internet after each new build.
 
-Contents: `index.html` (the tested page from build 143; only two changes: the home-screen icon link points to `apple-touch-icon.png` instead of an embedded copy, and it registers `sw.js`) · `sw.js` (keeps the offline copy) · `apple-touch-icon.png` · `.nojekyll`.
+Contents: `index.html` (the tested page from build 144; only two changes: the home-screen icon link points to `apple-touch-icon.png` instead of an embedded copy, and it registers `sw.js`) · `sw.js` (keeps the offline copy) · `apple-touch-icon.png` · `.nojekyll`.
