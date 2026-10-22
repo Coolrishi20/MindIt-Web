@@ -1,6 +1,6 @@
 # Mind It! — webpage version
 
-This repository hosts the browser version of **Mind It! v1.69** with GitHub Pages, so it opens properly on an iPhone or iPad. Currently build **146**.
+This repository hosts the browser version of **Mind It! v1.69** with GitHub Pages, so it opens properly on an iPhone or iPad. Currently build **147**.
 
 **Open it:** https://coolrishi20.github.io/MindIt-Web/
 
@@ -18,6 +18,7 @@ Good to know:
 - **A Safety Backup after every game** (since build 142): as soon as a finished game is saved to Historic Games, **Backups & Restore → 🛟 Safety backups** keeps a copy by itself ("After the game — … won"), with the last 10 on this device.
 - **Smooth moments** (since build 145): the question grows out of its square, screens fade, TIME’S UP stamps, a correct answer sparkles and more. Setup → 5 · Audio & Presentation → **Motion** (Full / Subtle / Off); a device set to Reduce Motion shows none.
 - **A premium look and 🎨 Theme** (since build 146): every theme gets a glossier board in its own colours; during a game, **🎨 Theme ▾** in the top bar changes the theme in one pick. **🎲 Fun Names** in Setup names the teams for you. Back to the board after 3 seconds, No One Answered after 3 seconds, and a **🏆 Champions card** on the winner screen (with **💾 Save Champions Picture**).
+- **Premium theme moments** (since build 147): every theme plays its own short moments on the TV — the question reveal, correct and wrong answers, the Daily Double, round intros, the Final and the winner — and Comic Book is redesigned in ink, crimson, gold and cream. Motion Subtle keeps a gentle glow; Off shows none.
 - **Works with no internet** (since build 129): once it has been opened with internet, the phone keeps a copy and opens it offline, with its players and history. With internet it always loads the newest build first. Open it once with internet after each new build.
 
-Contents: `index.html` (the tested page from build 146; only two changes: the home-screen icon link points to `apple-touch-icon.png` instead of an embedded copy, and it registers `sw.js`) · `sw.js` (keeps the offline copy) · `apple-touch-icon.png` · `.nojekyll`.
+Contents: `index.html` (the tested page from build 147; only two changes: the home-screen icon link points to `apple-touch-icon.png` instead of an embedded copy, and it registers `sw.js`) · `sw.js` (keeps the offline copy) · `apple-touch-icon.png` · `.nojekyll`.
