@@ -1,6 +1,6 @@
 # Mind It! — webpage version
 
-This repository hosts the browser version of **Mind It! v1.69** with GitHub Pages, so it opens properly on an iPhone or iPad. Currently build **149**.
+This repository hosts the browser version of **Mind It! v1.69** with GitHub Pages, so it opens properly on an iPhone or iPad. Currently build **150**.
 
 **Open it:** https://coolrishi20.github.io/MindIt-Web/
 
@@ -21,6 +21,7 @@ Good to know:
 - **Premium theme moments** (since build 147): every theme plays its own short moments on the TV — the question reveal, correct and wrong answers, the Daily Double, round intros, the Final and the winner — and Comic Book is redesigned in ink, crimson, gold and cream. Motion Subtle keeps a gentle glow; Off shows none.
 - **Blind It!, Rewind It!, Mastermind It! and The Rascala!** (since build 148): the Daily Double is now **Blind It!** and the Final Round **Mastermind It!** (same rules); Setup → 4 · Rounds & Questions → **Special Question** can swap Blind It! for **Rewind It!**, a cowboy-hat wheel worth 1×–5× (a wrong answer loses at most 3×; no chips that game); last place becomes **The Rascala!**, revealed after the winner.
 - **Build 149:** The Rascala! is a cowboy cat; the tagline **“Enna Rascala....Mind It!”**; the **Mind It! sound pack** (recorded sounds in place of the synthesised ones, a theme's own sounds kept); the wager screens keep clear of the theme scenery; fixes.
+- **Build 150:** the sounds follow the Mind It! trailer: the ding and a score pop for a right answer, a whoosh between screens, the standings tally, the winner's impact and cheer, a sparkle when the theme changes, all at the trailer's balance.
 - **Works with no internet** (since build 129): once it has been opened with internet, the phone keeps a copy and opens it offline, with its players and history. With internet it always loads the newest build first. Open it once with internet after each new build.
 
-Contents: `index.html` (the tested page from build 149; only two changes: the home-screen icon link points to `apple-touch-icon.png` instead of an embedded copy, and it registers `sw.js`) · `sw.js` (keeps the offline copy) · `apple-touch-icon.png` · `.nojekyll`.
+Contents: `index.html` (the tested page from build 150; only two changes: the home-screen icon link points to `apple-touch-icon.png` instead of an embedded copy, and it registers `sw.js`) · `sw.js` (keeps the offline copy) · `apple-touch-icon.png` · `.nojekyll`.
